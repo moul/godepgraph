@@ -1,5 +1,7 @@
 # godepgrah
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/godepgraph.svg)](https://www.guardrails.io)
+
 godepgraph is a program for generating a dependency graph of Go packages.
 
 ## Install
